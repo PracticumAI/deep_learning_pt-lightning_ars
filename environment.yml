@@ -1,4 +1,4 @@
-name: /data/training/Jupyter/PracticumAI/conda/deep_learning-pt_lightning
+name: deep_learning-pt_lightning
 channels:
   - pytorch
   - conda-forge
@@ -335,4 +335,3 @@ dependencies:
   - zstd=1.5.7=hb8e6e7a_2
   - pip:
       - sympy==1.13.1
-prefix: /data/training/Jupyter/PracticumAI/conda/deep_learning-pt_lightning
