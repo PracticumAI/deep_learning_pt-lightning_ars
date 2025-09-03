@@ -128,7 +128,7 @@ terminado @ file:///home/conda/feedstock_root/build_artifacts/terminado_17102626
 threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
 tinycss2 @ file:///home/conda/feedstock_root/build_artifacts/tinycss2_1729802851396/work
 tomli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tomli_1753796677/work
-torch==2.5.1
+torch==2.8.0
 torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1754654227994/work
 torchvision==0.20.1
 tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1754731998601/work
